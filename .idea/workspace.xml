@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66693ba7-ada9-4756-9e99-70a4c9cae8c2" name="Default Changelist" comment="" />
+    <list default="true" id="66693ba7-ada9-4756-9e99-70a4c9cae8c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/hospitals" beforeDir="false" afterPath="$PROJECT_DIR$/hospitals" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TnSYFjCDNTOjPm2J3Oz0Ike1ZC" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -36,10 +42,38 @@
       <option name="presentableId" value="Default" />
       <updated>1574094411491</updated>
       <workItem from="1574094412841" duration="1189000" />
+      <workItem from="1574097672606" duration="6368000" />
+      <workItem from="1574965444697" duration="1996000" />
+      <workItem from="1575015280405" duration="10066000" />
     </task>
+    <task id="LOCAL-00001" summary="Removed Hotline">
+      <created>1574147621449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574147621449</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Removed Hotline" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed Hotline" />
   </component>
 </project>
