@@ -3217,7 +3217,7 @@ h6 {
     left: 0;
     width: 50%;
     top: 0;
-    background: url(../img/banner/about1.png);
+    
     backgroundsize: auto;
     z-index: 11;
     height: 100%;
@@ -3243,14 +3243,8 @@ h6 {
     font-family: "Playfair Display", serif;
     margin-bottom: 32px;
     line-height: 46px; }
-  .about-area .about-content h6 {
-    font-size: 16px;
-    font-weight: 400;
-    color: #0051d2;
-    line-height: 25px;
-    margin-bottom: 25px; }
   .about-area .about-content p {
-    font-size: 15px;
+    font-size: 25px;
     margin-bottom: 30px;
     line-height: 26px; }
 
