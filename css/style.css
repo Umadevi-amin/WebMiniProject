@@ -3069,7 +3069,7 @@ h6 {
 ============================================================================================ */
 .hotline-area {
   color: #fff;
-  background-image: url("../img/background/bg1.jpg");
+  background-image: url("../img/ambulance.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -3082,7 +3082,7 @@ h6 {
     left: 0;
     width: 100%;
     height: 100%;
-    background: #0051d2;
+    background: #000000;
     opacity: .7;
     z-index: -1; }
   .hotline-area h2 {
