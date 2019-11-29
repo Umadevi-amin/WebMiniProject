@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66693ba7-ada9-4756-9e99-70a4c9cae8c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/department.html" beforeDir="false" afterPath="$PROJECT_DIR$/department.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctors.html" beforeDir="false" afterPath="$PROJECT_DIR$/doctors.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/element.html" beforeDir="false" afterPath="$PROJECT_DIR$/element.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hospitals" beforeDir="false" afterPath="$PROJECT_DIR$/hospitals" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
