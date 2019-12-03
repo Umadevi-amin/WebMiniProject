@@ -3,20 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="66693ba7-ada9-4756-9e99-70a4c9cae8c2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icon/cotation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icon/i1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icon/i2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icon/i3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icon/i4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icon/video-icon-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/notify-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/video-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_process.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,7 +23,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSE-Lab_VtuSem7" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,6 +36,17 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="WebMiniProject" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.WebMiniProject" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -54,7 +63,9 @@
       <workItem from="1574965444697" duration="1996000" />
       <workItem from="1575015280405" duration="10066000" />
       <workItem from="1575035463075" duration="16244000" />
-      <workItem from="1575089106422" duration="1124000" />
+      <workItem from="1575089106422" duration="1312000" />
+      <workItem from="1575366887469" duration="112000" />
+      <workItem from="1575367034003" duration="18000" />
     </task>
     <task id="LOCAL-00001" summary="Removed Hotline">
       <created>1574147621449</created>

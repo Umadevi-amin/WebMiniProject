@@ -2926,6 +2926,9 @@ h6 {
       background: #b8024c;
       color: #fff; }
   .button-contactForm {
+    font-family: "Playfair Display", serif;
+    font-size: 15px;
+    font-weight: 500;
     background: #0051d2;
     color: #fff;
     border-color: #0051d2;
