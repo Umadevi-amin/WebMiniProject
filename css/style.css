@@ -1452,6 +1452,9 @@ ul {
     margin-bottom: 50px; }
   .appointment-area .appointment-form .form-group {
     margin-bottom: 25px; }
+  #appointment-button{
+    width: 200px;
+    height: 60px; }
 .appointment-area form {
   margin-top: 24px;
   display: inline-block;

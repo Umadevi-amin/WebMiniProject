@@ -1,16 +1,12 @@
 <?php
+	if(isset($_POST['submit'])){
+		$name = $_POST['name'];
+		$email = $_POST['email'];
+		$hosp = $_POST['hospital'];
+		$message = $_POST['message'];
+	}
 
-    if(isset($_POST['submit'])){
-        $to = "mrpotato1769@gmail.com";
-        $from = $_POST['email'];
-        $name = $_POST['name'];
-        $subject = $_POST['subject'];
-        $number = $_POST['number'];
-        $cmessage = $_POST['message'];
-    }
-
-
-    $dbhost = "localhost";
+	$dbhost = "localhost";
     $dbuser = "root";
     $pass = "";
     $db = "locator_feedback";
@@ -24,8 +20,8 @@
     $conn = openConn($dbhost, $dbuser, $pass, $db);
     if(!$conn)
         echo "Not Connected";
-    $sql = "INSERT INTO contact(`sender`, `name`, `subject`, `number`, `message`) VALUES ('$from', '$name', '$subject', '$number', '$cmessage')";
+    $sql = "INSERT INTO appointment(`name`, `email`, `hospital`, `message`) VALUES ('$name', '$email', '$hosp', '$message')";
     mysqli_query($conn,$sql) or die(mysqli_error($conn));
     closeConn($conn);
-    header("refresh:2; url=contact.html");
+    header("refresh:0; url=department.html");
 ?>

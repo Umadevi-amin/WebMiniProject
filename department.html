@@ -133,18 +133,18 @@
                     <div class="col-lg-10">
                         <div class="appointment-form">
                             <h3>Make an Appointment</h3>
-                            <form action="#">
+                            <form action="appointment_process.php" method="post" id="appointmentForm" novalidate="novalidate">
                                 <div class="form-group">
                                     <label>Full Name</label>
-                                    <input type="text" placeholder="Your Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name'" required>
+                                    <input type="text" id="name" name="name" placeholder="Your Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name'" required>
                                 </div>
                                 <div class="form-group">
                                     <label>Email</label>
-                                    <input type="email" placeholder="Your Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email'" required> 
+                                    <input type="email" id="email" name="email" placeholder="Your Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email'" required> 
                                 </div>
                                 <div class="form-group">
                                     <label>Hospital</label>
-                                    <select name="hospital">
+                                    <select id="hospital" name="hospital">
                                         <option value ="Sagar Hospitals">Sagar Hospitals</option>
                                         <option value ="Manipal Hospital" selected>Manipal Hospital</option>
                                         <option value ="Nature Cure Hospital">Nature Cure Hospital</option>
@@ -160,9 +160,11 @@
                                 </div>
                                 <div class="form-group">
                                     <label>Message</label>
-                                    <textarea name="message" cols="20" rows="7"  placeholder="Message" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Message'" required></textarea>
+                                    <textarea id="message" name="message" cols="20" rows="7"  placeholder="Message" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Message'" required></textarea>
                                 </div>
-                                <a href="#" class="main_btn">Make an Appointment</a>
+                                <div class="make-appointment">
+                                    <input type="submit" name="submit" id="appointment-button" value="Make an Appointment" class="button-contactForm">
+                                </div>
                             </form>
                         </div>
                     </div>
@@ -171,8 +173,6 @@
         </div>
     </section>
     <!--================ appointment Area End =================-->
-
-
 
 
 
